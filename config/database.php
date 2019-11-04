@@ -13,7 +13,7 @@ return array(
         
         'user' => 'liuyan', // 数据库连接用户名
         
-        'passwd' => '123456', // 数据库连接密码
+        'passwd' => 'SCidsd!32&sd34.(&', // 数据库连接密码
         
         'port' => '3306', // 数据库端口
                           
